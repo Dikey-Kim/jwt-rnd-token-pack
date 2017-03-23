@@ -1,0 +1,22 @@
+{
+  "name": "jwt-rnd-token",
+  "main": "lib/token.js",
+  "dependencies": {
+    "jwt-simple": ">=0.5.0"
+  },
+  "devDependencies": {},
+  "description": "",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dikey-Kim/jwt-rnd-token-pack.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dikey-Kim/jwt-rnd-token-pack/issues"
+  },
+  "homepage": "https://github.com/Dikey-Kim/jwt-rnd-token-pack#readme"
+}
